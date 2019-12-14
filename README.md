@@ -1,5 +1,3 @@
-# js-challenge
-
 # challenge list
 - [1_Object_Array_And_Events](https://psyssai.github.io/js-challenge/1_Object_Array_And_Events)
 - [2_If_Else_Events](https://psyssai.github.io/js-challenge/2_If_Else_Events)
