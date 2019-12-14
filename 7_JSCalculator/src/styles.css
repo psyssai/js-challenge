@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+
+input {
+  background-color: black;
+  color: white;
+  text-align: right;
+  width: 316px;
+  margin: 1px;
+  border: none;
+  font-size: 26px;
+}
+button {
+  font-size: 20px;
+
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  margin: 1px;
+  border: 0px;
+  border-radius: 8px;
+}
+
+.init {
+  background-color: #a6a6a6;
+  color: white;
+}
+
+.number,
+.equal {
+  background-color: #353535;
+  color: white;
+}
+
+.plus,
+.minus,
+.multiply,
+.devide {
+  background-color: #ffbb00;
+}
+.num0 {
+  width: 208px;
+}
